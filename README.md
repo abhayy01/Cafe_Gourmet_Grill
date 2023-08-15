@@ -11,7 +11,7 @@
 
  <br>                     
 
-``` Credits: Manu Mishra```
+``` Credits: Abhay Shivhare```
 
 <div float="right" width="400">
   <img align="left" height="450" width="1200" src="Thumbnail.png">
